@@ -23,9 +23,9 @@
 
 | Languages | Years|
 | --------- |:----:|
-| *Java*    |  1   |
-| *HTML*    |  2   |
-| *CSS*     |  2   |
+| *Java*    |  <1   |
+| *HTML*    |  <1   |
+| *CSS*     |  <1   |
 ****
 >> just trying some Blockquotes
 
@@ -35,6 +35,8 @@ Second one[^2]
 
 [^1]: My reference to the first.
 [^2]: My reference to the second.
+
+###### Ubuntu tutorial video:
 
 
 <a href="https://www.youtube.com/watch?v=D4WyNjt_hbQ
